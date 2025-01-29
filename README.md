@@ -1,7 +1,7 @@
 A place for me to keep track of my assignments and tasks for Intro to Programming. 
 
 'About Me' HTML assignment tasks
-[] Replace the content of the title tag to `About Me`
+[X] Replace the content of the title tag to `About Me`
 [] Create a `<h1>` tag and place your name inside the element.
 [] Create a `<hr>` tag underneath your `<h1>`
 [] Create a `<h2>` tag with the content of `My Hobbies`.
